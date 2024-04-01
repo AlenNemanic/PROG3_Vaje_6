@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OOP_Vozilo")]
+[assembly: AssemblyTitle("Racun")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OOP_Vozilo")]
+[assembly: AssemblyProduct("Racun")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4ab78f71-12df-4e97-a507-ff919d5dcea2")]
+[assembly: Guid("1c1b7f61-e1a9-42ef-afd2-fc88db89d6e0")]
 
 // Version information for an assembly consists of the following four values:
 //

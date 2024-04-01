@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OOP_Vozilo")]
+[assembly: AssemblyTitle("OOP_Kosarica")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OOP_Vozilo")]
+[assembly: AssemblyProduct("OOP_Kosarica")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4ab78f71-12df-4e97-a507-ff919d5dcea2")]
+[assembly: Guid("9f109651-1d0c-4ace-99b1-a1e5e3913176")]
 
 // Version information for an assembly consists of the following four values:
 //
